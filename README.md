@@ -1,4 +1,4 @@
-# 快速小作業Demo
+# 快速小作業Demo---[FireBase連結](https://project-done-demo.web.app/)
 
 ## 條件如下
 ```
@@ -38,8 +38,6 @@
     P.S 第七題有做出來，但是不確定這樣做是否正確，以下內容有說明與描述。
 ```
 
-# 我的作品---[FireBase連結](https://project-done-demo.web.app/)
-
 # 專案說明
 #### 本專案採取Vue Cli作為建置環境，並且安裝了Sass Loader 以便可以使用SCSS來撰寫CSS樣式
 
@@ -57,7 +55,7 @@
 
 ![component](./readme_pic/component.jpg)
 
-#### 雖然本次並沒有將Component拆解至最小化(因為會造成傳值的複雜度)
+#### 雖然本次並沒有將Component拆解至最小化(因為會造成傳值的複雜度太大)
 
 <br/>
 
@@ -124,7 +122,7 @@
 
 <br/>
 
-#### **_只能先以這種方式來處理靜態的description與其content(不知是否符合題目需求或是有更好的方法使用？)_**
+#### **_只能先以這種方式來處理靜態的description與其content(不知是否符合題目需求或是有更好的方法或是解決方向？)_**
 
 <br/>
 
@@ -134,6 +132,17 @@
 
 # Global 參數改變主題
 #### 透過Vuex來建立全域變數，這樣子可以免於Inject跟Provide的麻煩，避免程式架構變得混亂、資料的傳遞越來越繁雜，因此我認為這是最好的辦法(即使這樣會多了不少行程式碼，但是日後較好擴充)。
+
+<br/>
+
+#### **(點擊Emoji就可以切換日夜間模式囉!)**
+
+
+![state_struct](./readme_pic/darkMode1.jpg)
+
+<br/>
+
+![state_struct](./readme_pic/darkMode2.jpg)
 
 <br/>
 
