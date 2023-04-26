@@ -138,11 +138,11 @@
 #### **(點擊Emoji就可以切換日夜間模式囉!)**
 
 
-![state_struct](./readme_pic/darkMode1.jpg)
+![darkMode1](./readme_pic/darkMode1.jpg)
 
 <br/>
 
-![state_struct](./readme_pic/darkMode2.jpg)
+![darkMode2](./readme_pic/darkMode2.jpg)
 
 <br/>
 

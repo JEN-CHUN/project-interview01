@@ -21,7 +21,7 @@
 import { ref } from "vue";
 import axios from "axios";
 
-// 先將資料設為null，在資料未被Fetch並賦值之前會顯示「稍後」訊息
+// 先將資料設為null，在資料未被Fetch並賦值之前會顯示「稍後」
 const data = ref(null);
 
 // Fetch的Method(使用axios)
